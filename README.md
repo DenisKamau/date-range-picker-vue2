@@ -1,4 +1,4 @@
-# data-picker-vue2
+# date-picker-vue2
 
 ## Project setup
 ```
